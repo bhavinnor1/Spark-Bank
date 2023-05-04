@@ -29,4 +29,33 @@ Boom 💥 you got yourself a banking website.
 
 Hosting:-
 
-https://render.com/ - Sign up here
+1. https://render.com/ - Sign up here
+
+After Sign up
+
+2. Click on the "+New" button on the dashboard https://dashboard.render.com/
+
+Drop-down appears
+
+3. Then Click on Web Service 
+
+New Web page loads...
+
+4. Then scroll down to "Public Git Repository" input box
+
+Put this link in it https://github.com/bhavinnor1/Spark-Bank 
+
+And Click Continue 
+
+A New Web page loads again
+
+5. Put a name here (it should be unique like a username)
+
+Scroll down to the bottom of the page and click "Create Web Service"
+
+6. Now Wait 3-5 minutes for deployment process to complete
+
+Then Click on the link that is on the screen it will end with ".onrender.com"
+
+💥Boom your website is live on the internet for anyone to see just share the link to anyone
+
