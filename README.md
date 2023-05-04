@@ -29,7 +29,7 @@ Boom 💥 you got yourself a banking website.
 
 Hosting:-
 
-1. https://render.com/ - Sign up here
+1. https://dashboard.render.com/register - Sign up here
 
 After Sign up
 
