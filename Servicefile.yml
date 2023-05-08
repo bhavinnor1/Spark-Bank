@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: assignment
+spec:
+  selector:
+    app: assignment
+  ports:
+    - name: http
+      protocol: TCP
+      port: 5000
+      targetPort: 5000
+      nodePort: 31200
+  type: NodePort 
